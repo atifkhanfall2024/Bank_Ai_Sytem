@@ -1,0 +1,55 @@
+MUHAMMAD ATIF KHAN
+Full Stack Developer | Building GenAI, RAG & Agentic AI Applications
+Pakistan | +92-344-9092577 | muhammadatifkhan0906@gmail.com | LinkedIn | GitHub | Portfolio
+
+PROFESSIONAL SUMMARY
+Full Stack Developer with 1.5+ years of experience building scalable MERN, Next.js, and AI-powered applications. Skilled in AWS cloud deployment, CI/CD automation, RAG systems, and GenAI integrations, with a track record of delivering production solutions for international clients across healthcare, education, and business automation.
+
+TECHNICAL SKILLS
+Languages: TypeScript, JavaScript, Python, C++
+Frontend: React.js, Next.js, Redux, Zustand, WebSockets
+Backend: Node.js, FastAPI, REST APIs, Microservices, OAuth 2.0, NextAuth
+Databases: PostgreSQL, MongoDB Atlas, Supabase, Qdrant (Vector DB), Redis
+Cloud & DevOps: AWS, Vercel, Docker, CI/CD Pipelines, Nginx, Git
+AI / ML: OpenAI API, Gemini API, LangChain, RAG Pipelines, Agentic AI, Prompt Engineering
+
+PROFESSIONAL EXPERIENCE
+Team Lead – Web — Wrapify Solutions (Onsite) Nov 2024 – Present
+• Built production-grade REST APIs with Node.js, implementing input validation, error handling, and role-based access control to improve system reliability.
+• Deployed Dockerized applications to AWS with zero-downtime CI/CD releases, maintaining high availability across all environments.
+
+Full Stack Web Developer — Association for Development & Law (ADL) Apr 2026 – Jun 2026
+• Rebuilt the company website using Next.js with server-side rendering and code splitting, improving Core Web Vitals, load speed, and SEO performance.
+• Configured AWS CI/CD pipelines for zero-downtime releases and contributed to microservices architecture decisions across Agile sprints.
+
+Full Stack Web Developer — Flutter Craft Jan 2026 – Apr 2026
+• Built AI-powered applications with Next.js and Node.js, integrating OpenAI and Gemini APIs to automate response workflows and reduce operational overhead.
+• Designed RAG pipelines using Qdrant vector embeddings and deployed containerized microservices on AWS and Vercel via Docker and CI/CD.
+
+Freelance Full Stack Developer — Self-Employed Jan 2024 – Present
+• Delivered end-to-end MERN and Next.js applications for international clients, integrating Razorpay payments, GenAI chatbots, and RAG pipelines.
+• Managed full project lifecycle independently — architecture, development, deployment, testing, and post-launch maintenance.
+
+KEY PROJECTS
+AI Medical Availability System — React.js, Node.js, PostgreSQL, MongoDB, Docker, AWS
+• Healthcare platform matching patients with nearby pharmacies in real time via location detection and live chat, with role-based Patient, Doctor, and Admin dashboards; containerized with Docker and deployed on AWS with CI/CD.
+
+AI WhatsApp Business Automation — Next.js, Node.js, Qdrant, AWS, PostgreSQL
+• WhatsApp Cloud API assistant using RAG pipelines and Qdrant vector embeddings to auto-generate contextual replies via Gemini API; runs serverless on AWS Lambda with PostgreSQL persisting conversation history.
+
+AI-Powered LMS — MERN Stack, PostgreSQL, Google OAuth 2.0, Razorpay, Vercel
+• Course platform with Razorpay payments, Google OAuth 2.0 SSO, and Student, Instructor, and Admin dashboards; frontend on Vercel with AWS RDS for scalable, managed database hosting.
+
+Complaint Tracking & Management System — Next.js, Node.js, MongoDB, AWS, Nginx
+• Role-based platform for real-time complaint submission, tracking, and resolution via REST APIs and authenticated dashboards; deployed on AWS behind Nginx for horizontal scaling and high availability.
+
+EDUCATION
+BS Computer Science — University of Engineering & Technology (UET), Peshawar 2022 – 2026
+
+CERTIFICATIONS & AWARDS
+• AWS Certified Cloud Practitioner (CLF-C02)
+• Full Stack AI Development (GenAI, RAG & Agentic AI), Udemy — 2025
+• Node.js, Coursera / HKUST — 2025
+• 2nd Place, AI Hackathon, UET Peshawar 2025 (Agentic AI Web Scraper)
+• Web Award, Team Lead, Computer Cell Society
+• 4th Place, Peshawar Board
